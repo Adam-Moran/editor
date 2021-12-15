@@ -3,7 +3,7 @@ import { CodeMirror } from 'codemirror';
 
 export default class DeviceDownloadComponent extends Component {
     constructor(){
-        console.log("a");
+        // rebase test
         super(...arguments);
     }
 }
